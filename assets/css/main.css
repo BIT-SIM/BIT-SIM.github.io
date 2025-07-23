@@ -1884,6 +1884,15 @@ input, select, textarea {
 			font-size: 1.65em;
 		}
 
+        input[type="button"].medium,
+        input[type="submit"].medium,
+        input[type="reset"].medium,
+        button.medium,
+        .button.medium {
+            font-size: 1.4em;
+            padding: 0.75em 1.5em;
+        }
+
 /* List */
 
 	ul {
