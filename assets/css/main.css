@@ -1817,7 +1817,7 @@ input, select, textarea {
 		display: inline-block;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
-		text-transform: uppercase;
+		text-transform: none;
 		text-decoration: none;
 		background: #3282B8;
 		color: #fff;
@@ -2411,7 +2411,7 @@ table {
 		text-align: center;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
-		text-transform: uppercase;
+		text-transform: none;
 		cursor: default;
 	}
 
@@ -2480,7 +2480,7 @@ table {
 		text-align: center;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
-		text-transform: uppercase;
+		text-transform: none;
 		padding: 1em 0;
 		text-align: left;
 		min-width: 14em;
